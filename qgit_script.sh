@@ -1,4 +1,4 @@
 #!/bin/sh
 git add .
-git commit -m "added 2about"
+git commit -m "2about add image"
 git push origin master

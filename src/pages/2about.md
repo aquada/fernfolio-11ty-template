@@ -11,6 +11,7 @@ eleventyNavigation:
 
 ### What is Fernfolio?
 An [Eleventy](https://www.11ty.io/) theme designed to simplify the process of creating a beautiful portfolio and blog. Tightly integrated with [Netlify CMS](https://www.netlifycms.org/) for flexible, Git-powered content management.
+![Fern in Hand](/src/assets/img/fern-forest.jpeg "Fern in Hand")
 
 ### Why create this?
 
